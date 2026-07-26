@@ -44,7 +44,7 @@ Outside of work, you'll usually find me participating in hackathons, exploring e
 
 # 💼 Experience
 
-### 🚀 Technical Product Manager
+### 🚀 Technical Product Manager - FactWise Pvt Ltd
 
 - Developed enterprise-grade product features
 - Designed OpenAPI documentation and API workflows
@@ -54,7 +54,7 @@ Outside of work, you'll usually find me participating in hackathons, exploring e
 
 <br>
 
-### 💻 Full Stack Developer Intern
+### 💻 Full Stack Developer Intern - Axentra OS
 
 - Developed production-ready full stack features
 - Improved backend architecture and performance
