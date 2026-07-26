@@ -1,80 +1,224 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Pranav Shirke</h1>
 
-<img src="https://avatars.githubusercontent.com/u/172277034?v=4" width="150" height="150" style="border-radius: 50%;">
+<h3 align="center">
+AI & Data Science Engineer • Technical Product Manager • Full Stack Developer
+</h3>
 
-# Hi, I'm Pranav Shirke 👋
-### 🚀 Engineering Student | AI Enthusiast | Full Stack Developer
-*Turning coffee into code and ideas into reality.*
+<p align="center">
 
-[🌐 **Portfolio**](https://pranavshirkeportfolio.netlify.app/)
+<a href="https://pranavshirkeportfolio.netlify.app">
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit Website-4285F4?style=for-the-badge">
+</a>
 
----
+<a href="https://linkedin.com/in/pranavshirke1001">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-</div>
+<a href="mailto:pranav.shirke1001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
+</a>
 
-## ⚡ About Me
-I'm a **tech problem-solver** based in Mumbai. I love building ecosystems that bridge the gap between complex AI and simple user experiences. Whether it's game development or machine learning, I'm always looking for the next challenge.
-
-- 🔭 **Currently working on:** *FitPulse & AI Integration*
-- 🌱 **Learning:** *Advanced Typescript & Generative AI*
-- 💬 **Ask me about:** *React, Python, and Game Logic*
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| **Core** | **Frameworks** | **Domains** |
-|:---:|:---:|:---:|
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![AI/ML](https://img.shields.io/badge/AI%20&%20ML-FF6F00?style=for-the-badge) <br> ![Game Dev](https://img.shields.io/badge/Game_Dev-782a99?style=for-the-badge) |
-
-</div>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+<p align="center">
 
-### 🧠 **[FitPulse](https://github.com/deepdas2607/FitPulse)**
-> *The AI Gym Bro you never knew you needed.*
-**Mission:** Real-time posture correction & wellness intelligence.
-**Tech:** TypeScript, AI Analysis.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=4285F4&center=true&vCenter=true&width=900&lines=Technical+Product+Manager;AI+%26+Data+Science+Student;Full+Stack+Developer;Hackathon+Winner;Building+Products+that+Matter)](https://git.io/typing-svg)
 
-### ✈️ **[PlanMyTrip](https://github.com/PranavShirke/PlanMyTrip)**
-> *Planning a vacation shouldn't be work.*
-**Mission:** AI-generated day-by-day itineraries with weather & mapping.
-**Tech:** TypeScript, Interactive Mapping.
-
-### 🕵️ **[SachJaano](https://github.com/PranavShirke/SachJaano)**
-> *Truth detector 9000.*
-**Mission:** Detecting fake news with 99.2% accuracy using TF-IDF & LinearSVC.
-**Tech:** JavaScript, Machine Learning.
-
-### 👾 **[LOST-AMONG-THE-STARS](https://github.com/GideonMire/LOST-AMONG-THE-STARS)**
-> *In space, no one can hear you git push.*
-**Mission:** A story-driven 2D Space RPG with NPC interactions and dynamic events.
-**Tech:** JavaScript, Game Logic.
-
-### 🗣️ **[AIShravan](https://github.com/PranavShirke/AIShravan)**
-> *Bridging the silence.*
-**Mission:** Communication platform for the Deaf and hard of hearing using Text-to-Speech.
-**Tech:** Python Libraries, Web.
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 About Me
 
-<div align="center">
-
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavShirke&show_icons=true&theme=radical&hide_border=true)
-
-</div>
+- 🎓 Final Year B.E. Artificial Intelligence & Data Science Student
+- 💼 Technical Product Management Intern @ FactWise
+- 💻 Former Full Stack Developer Intern @ AltissAdvance Tech
+- 🏆 AMD Slingshot National Finalist
+- 🥇 2× Hackathon Winner
+- 🥈 1× Hackathon Runner-Up
+- 📊 Passionate about Product, AI & Data Analytics
+- 🌱 Currently exploring Cloud Computing & System Design
 
 ---
 
-<div align="center">
+# 🛠 Tech Stack
 
-### 🤝 Let's Connect
-[![](https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge)](https://pranavshirkeportfolio.netlify.app/)
+<p align="center">
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,react,nodejs,express,postgres,mysql,mongodb,git,github,docker,linux,vscode"/>
+
+</p>
+
+---
+
+# 📊 Data & Analytics
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+</p>
+
+- Power BI
+- Tableau
+- MS Excel
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- KPI Dashboards
+- ETL
+
+---
+
+# 💼 Current Focus
+
+```text
+🚀 Enterprise Procurement Platform @ FactWise
+📊 Data Analytics
+🤖 Artificial Intelligence
+📦 Technical Product Management
+☁ Google Cloud
+```
+
+---
+
+# ⭐ Featured Projects
+
+### 🧠 SaachJaano
+AI-powered misinformation detection system using NLP with **99.26% accuracy**.
+
+---
+
+### 📊 SocialSense
+
+AI-powered Social Media Analytics Platform visualizing **1M+ data points** with Power BI.
+
+---
+
+### 🏥 AI CareLink
+
+Healthcare platform featuring disease prediction, chatbot, doctor finder and analytics.
+
+---
+
+### 📈 Commodity Price Prediction
+
+Machine Learning model forecasting commodity prices using macroeconomic indicators.
+
+---
+
+# 🏆 Achievements
+
+🥇 Winner — Game Dev Jam
+
+🥈 Runner-Up — DMCE Code-A-Thon
+
+🏅 Runner-Up — FullStack.AI
+
+🚀 AMD Slingshot National Finalist
+
+🥇 Winner — E-Cell Business Idea Competition
+
+📝 Best Technical Blog — HackXios × AWS
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PranavShirke&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavShirke&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PranavShirke&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavShirke&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PranavShirke&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions to make this animation work.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://pranavshirkeportfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
+</a>
+
+<a href="https://linkedin.com/in/pranavshirke1001">
+<img src="https://img.shields.io/badge/LinkedIn-Pranav_Shike-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:pranav.shirke1001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-pranav.shirke1001@gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=PranavShirke&style=for-the-badge&color=blue)
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ "Building technology that creates real-world impact."
+
+</h3>
