@@ -1,28 +1,32 @@
 <div align="center">
 
-# Hi 👋 I'm Pranav Shirke
+# Hi 👋, I'm Pranav Shirke
 
-### Technical Product Management • Full Stack Development • AI & Data Science
+### Technical Product Manager • Full Stack Developer • AI & Data Science
 
 <p>
-Building enterprise software, AI-powered applications, and data-driven products that solve real-world problems.
+Building intelligent software, scalable products, and data-driven solutions that create real-world impact.
 </p>
 
+<p>
+
 <a href="https://pranavshirkeportfolio.netlify.app">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit%20Website-2563EB?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge&labelColor=0D1117"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pranavshirke1001">
-<img src="https://img.shields.io/badge/LinkedIn-Pranav%20Shirke-0A66C2?style=for-the-badge&logo=linkedin&labelColor=111827"/>
+<img src="https://img.shields.io/badge/LinkedIn-Pranav%20Shirke-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0D1117"/>
 </a>
 
 <a href="mailto:pranav.shirke1001@gmail.com">
-<img src="https://img.shields.io/badge/Email-pranav.shirke1001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Gmail-pranav.shirke1001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&labelColor=0D1117"/>
 </a>
 
-<br><br>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Technical+Product+Management+Intern+%40+FactWise;Full+Stack+Developer;AI+%26+Data+Science+Student;Hackathon+Winner+%7C+AMD+Slingshot+National+Finalist;Building+Products+That+Matter.)](https://git.io/typing-svg)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Technical+Product+Manager;Full+Stack+Developer;AI+%26+Data+Science+Student;Hackathon+Winner+%7C+AMD+Slingshot+National+Finalist;Always+Building+Something+New.)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,34 +34,32 @@ Building enterprise software, AI-powered applications, and data-driven products 
 
 # 👨🏻‍💻 About Me
 
-I'm **Pranav Shirke**, a Final Year **Artificial Intelligence & Data Science** student from Mumbai.
+I'm **Pranav Shirke**, a final-year **Artificial Intelligence & Data Science** student from Mumbai who enjoys transforming ideas into impactful software products.
 
-I enjoy building software products that combine **engineering, artificial intelligence, analytics and product thinking** to solve real-world business problems.
+My interests span **Product Management**, **Full Stack Development**, **Artificial Intelligence**, and **Data Analytics**. I enjoy solving complex problems, collaborating with cross-functional teams, and building products that deliver real value.
 
-Currently, I'm working as a **Technical Product Management Intern at FactWise**, where I contribute to enterprise procurement software by developing product features, API workflows, PostgreSQL integrations and client onboarding solutions.
-
-Outside work you'll usually find me participating in hackathons, building AI products or learning new technologies.
+Outside of work, you'll usually find me participating in hackathons, exploring emerging technologies, or building side projects that challenge me to learn something new.
 
 ---
 
 # 💼 Experience
 
-### 🚀 Technical Product Management Intern — FactWise
+### 🚀 Technical Product Manager
 
-- Developed enterprise product features for the FactWise procurement platform
-- Designed OpenAPI documentation and async API workflows
+- Developed enterprise-grade product features
+- Designed OpenAPI documentation and API workflows
 - Built PostgreSQL & JDBC integration scripts
-- Worked with Engineering, QA and Product teams
+- Collaborated with Engineering, QA and Product teams
 - Supported enterprise client onboarding and testing
 
 <br>
 
-### 💻 Full Stack Developer Intern — AltissAdvance Tech Pvt. Ltd.
+### 💻 Full Stack Developer Intern
 
-- Developed production-ready application features
-- Optimized backend performance
-- Improved database efficiency
-- Built scalable full stack solutions
+- Developed production-ready full stack features
+- Improved backend architecture and performance
+- Optimized database efficiency
+- Contributed to scalable software solutions
 
 ---
 
@@ -65,25 +67,25 @@ Outside work you'll usually find me participating in hackathons, building AI pro
 
 ### 🧠 SaachJaano
 
-> AI-powered misinformation detection platform using NLP with **99.26% prediction accuracy**.
+AI-powered misinformation detection platform using NLP with **99.26% prediction accuracy**.
 
 ---
 
 ### 📊 SocialSense
 
-> AI-powered social media analytics platform visualizing **1M+ streaming data points**.
+AI-powered social media analytics platform capable of processing and visualizing **1M+ data points**.
 
 ---
 
 ### 🏥 AI CareLink
 
-> Intelligent healthcare platform featuring disease prediction, chatbot integration and analytics.
+Healthcare platform featuring AI disease prediction, chatbot assistance, doctor discovery and analytics.
 
 ---
 
-### 📈 Commodity Intelligence
+### 📈 Global Commodity Intelligence
 
-> Machine Learning platform for forecasting commodity prices using macroeconomic indicators.
+Machine Learning platform for commodity price forecasting using macroeconomic indicators.
 
 ---
 
@@ -97,7 +99,7 @@ Outside work you'll usually find me participating in hackathons, building AI pro
 
 </p>
 
-### Frameworks
+### Frameworks & Backend
 
 <p>
 
@@ -115,13 +117,13 @@ Outside work you'll usually find me participating in hackathons, building AI pro
 
 ### Data & Analytics
 
-Power BI • Tableau • SQL • Pandas • NumPy • Matplotlib • Seaborn • Excel
+Power BI • Tableau • SQL • Excel • Pandas • NumPy • Matplotlib • Seaborn
 
 ### Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
 
 </p>
 
@@ -129,13 +131,13 @@ Power BI • Tableau • SQL • Pandas • NumPy • Matplotlib • Seaborn •
 
 # 🏆 Achievements
 
+🏅 AMD Slingshot National Finalist
+
 🥇 Winner — Game Dev Jam
 
-🥈 Runner-Up — DMCE Code-A-Thon
+🥈 2nd Place — DMCE Code-A-Thon
 
 🥈 Runner-Up — FullStack.AI Hackathon
-
-🚀 AMD Slingshot National Finalist
 
 🥇 Winner — E-Cell Business Idea Competition
 
@@ -147,9 +149,9 @@ Power BI • Tableau • SQL • Pandas • NumPy • Matplotlib • Seaborn •
 
 - ☁️ Google Cloud Platform
 - 📦 System Design
-- ⚡ Enterprise Software
 - 🤖 AI Applications
-- 📊 Product Analytics
+- 📊 Product Strategy
+- ⚡ Scalable Backend Systems
 
 ---
 
@@ -158,26 +160,26 @@ Power BI • Tableau • SQL • Pandas • NumPy • Matplotlib • Seaborn •
 <div align="center">
 
 <a href="https://pranavshirkeportfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pranavshirke1001">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:pranav.shirke1001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-pranav.shirke1001%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Send%20Mail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 GitHub Contributions
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/PranavShirke/PranavShirke/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<img src="https://ghchart.rshah.org/PranavShirke" alt="Pranav Shirke GitHub Contribution Chart"/>
 
 </p>
 
@@ -185,8 +187,8 @@ Power BI • Tableau • SQL • Pandas • NumPy • Matplotlib • Seaborn •
 
 <div align="center">
 
-### 💡 *"Building technology that creates real-world impact."*
+### 💡 *"Building products that create real-world impact through technology."*
 
-⭐ If you like my work, consider checking out my repositories!
+⭐ Thanks for stopping by! Feel free to explore my repositories and connect with me.
 
 </div>
