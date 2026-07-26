@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Pranav Shirke</h1>
 
 <h3 align="center">
-AI & Data Science Engineer • Technical Product Manager • Full Stack Developer
+Technical Product Manager • Full Stack Developer • AI & Data Science
 </h3>
 
 <p align="center">
 
 <a href="https://pranavshirkeportfolio.netlify.app">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit Website-4285F4?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐 Portfolio-pranavshirkeportfolio.netlify.app-0A66C2?style=for-the-badge">
 </a>
 
 <a href="https://linkedin.com/in/pranavshirke1001">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Pranav%20Shirke-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:pranav.shirke1001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail">
 </a>
 
 </p>
@@ -24,177 +24,173 @@ AI & Data Science Engineer • Technical Product Manager • Full Stack Develope
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=4285F4&center=true&vCenter=true&width=900&lines=Technical+Product+Manager;AI+%26+Data+Science+Student;Full+Stack+Developer;Hackathon+Winner;Building+Products+that+Matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=900&lines=Building+Products+that+Matter.;Technical+Product+Management+Intern+%40+FactWise.;AI+%26+Data+Science+Student.;Full+Stack+Developer.;Hackathon+Winner+%7C+National+Finalist.)](https://git.io/typing-svg)
 
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨🏻‍💻 About Me
 
-- 🎓 Final Year B.E. Artificial Intelligence & Data Science Student
-- 💼 Technical Product Management Intern @ FactWise
-- 💻 Former Full Stack Developer Intern @ AltissAdvance Tech
-- 🏆 AMD Slingshot National Finalist
-- 🥇 2× Hackathon Winner
-- 🥈 1× Hackathon Runner-Up
-- 📊 Passionate about Product, AI & Data Analytics
-- 🌱 Currently exploring Cloud Computing & System Design
+```yaml
+Name: Pranav Shirke
+
+Location: Mumbai, India
+
+Education:
+  B.E. Artificial Intelligence & Data Science
+
+Currently:
+  Technical Product Management Intern @ FactWise
+
+Interests:
+  • Product Management
+  • Full Stack Development
+  • Artificial Intelligence
+  • Data Analytics
+  • Enterprise Software
+
+Currently Learning:
+  • Google Cloud
+  • System Design
+  • Scalable Backend Architecture
+```
+
+---
+
+# 🚀 Experience
+
+### 💼 Technical Product Management Intern • FactWise
+
+- Delivered enterprise product features
+- Built API workflows & OpenAPI documentation
+- Worked on PostgreSQL & JDBC integrations
+- Collaborated with Engineering & QA teams
+- Supported enterprise client onboarding
+
+<br>
+
+### 💻 Full Stack Developer Intern • AltissAdvance
+
+- Developed production-ready full stack features
+- Optimized database performance
+- Improved platform stability
+- Worked across frontend & backend development
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,react,nodejs,express,postgres,mysql,mongodb,git,github,docker,linux,vscode"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css"/>
+
+</p>
+
+### Frameworks & Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
+
+</p>
+
+### Database & Analytics
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+</p>
+
+Power BI • Tableau • Excel • SQL • Pandas • NumPy • Matplotlib • Seaborn
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
 
 </p>
 
 ---
 
-# 📊 Data & Analytics
+# 🚀 Featured Projects
 
-<p align="center">
+## 🧠 SaachJaano
 
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-</p>
-
-- Power BI
-- Tableau
-- MS Excel
-- SQL
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- KPI Dashboards
-- ETL
+Real-time NLP-based misinformation detection system with **99.26% accuracy**.
 
 ---
 
-# 💼 Current Focus
+## 📊 SocialSense
 
-```text
-🚀 Enterprise Procurement Platform @ FactWise
-📊 Data Analytics
-🤖 Artificial Intelligence
-📦 Technical Product Management
-☁ Google Cloud
-```
+AI-powered Social Media Analytics Platform capable of visualizing **1M+ data points**.
 
 ---
 
-# ⭐ Featured Projects
+## 🏥 AI CareLink
 
-### 🧠 SaachJaano
-AI-powered misinformation detection system using NLP with **99.26% accuracy**.
-
----
-
-### 📊 SocialSense
-
-AI-powered Social Media Analytics Platform visualizing **1M+ data points** with Power BI.
+Healthcare platform featuring disease prediction, chatbot integration, doctor discovery and analytics.
 
 ---
 
-### 🏥 AI CareLink
+## 📈 Global Commodity Intelligence
 
-Healthcare platform featuring disease prediction, chatbot, doctor finder and analytics.
-
----
-
-### 📈 Commodity Price Prediction
-
-Machine Learning model forecasting commodity prices using macroeconomic indicators.
+Machine Learning platform for commodity price forecasting using macroeconomic indicators.
 
 ---
 
 # 🏆 Achievements
 
-🥇 Winner — Game Dev Jam
+🥇 Game Dev Jam — Winner
 
-🥈 Runner-Up — DMCE Code-A-Thon
+🥈 DMCE Code-A-Thon — Runner-Up
 
-🏅 Runner-Up — FullStack.AI
+🏅 FullStack.AI Hackathon — Runner-Up
 
-🚀 AMD Slingshot National Finalist
+🚀 AMD Slingshot — National Finalist
 
-🥇 Winner — E-Cell Business Idea Competition
+🥇 E-Cell Business Idea Competition — Winner
 
-📝 Best Technical Blog — HackXios × AWS
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PranavShirke&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavShirke&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+📝 HackXios × AWS — Best Technical Blog
 
 ---
 
-# 🔥 GitHub Streak
+# 🌱 Currently Exploring
 
-<p align="center">
+```text
+☁ Google Cloud
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PranavShirke&theme=tokyonight&hide_border=true"/>
+📊 Data Engineering
 
-</p>
+⚡ System Design
 
----
+🤖 AI Applications
 
-# 📈 Contribution Graph
+📦 Product Strategy
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavShirke&theme=tokyo-night&hide_border=true"/>
-
-</p>
+📈 Business Analytics
+```
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PranavShirke&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions to make this animation work.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
-# 📫 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://pranavshirkeportfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4F8EF7?style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/pranavshirke1001">
-<img src="https://img.shields.io/badge/LinkedIn-Pranav_Shike-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:pranav.shirke1001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-pranav.shirke1001@gmail.com-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-pranav.shirke1001%40gmail.com-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -203,15 +199,7 @@ Machine Learning model forecasting commodity prices using macroeconomic indicato
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=PranavShirke&style=for-the-badge&color=blue)
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=4F8EF7&line=4F8EF7&point=FFFFFF&hide_border=true"/>
 
 </p>
 
@@ -219,6 +207,6 @@ Machine Learning model forecasting commodity prices using macroeconomic indicato
 
 <h3 align="center">
 
-⭐ "Building technology that creates real-world impact."
+"Technology is most impactful when it solves real problems."
 
 </h3>
