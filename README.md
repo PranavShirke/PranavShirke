@@ -19,7 +19,7 @@ Building intelligent software, scalable products, and data-driven solutions that
 </a>
 
 <a href="mailto:pranav.shirke1001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-pranav.shirke1001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Gmail-pranavshirke1001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&labelColor=0D1117"/>
 </a>
 
 </p>
